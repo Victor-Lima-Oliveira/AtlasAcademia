@@ -1,0 +1,17 @@
+  Esse projeto é simplesmente um trabalho em grupo do curso técnico  em desenvolvimento  de sistemas, 
+qualquer relação com a realidade é mera coincidência
+
+  O objetivo do projeto é limitado ao front-end de um site de uma academia, que tem como inspiração a Grécia Antiga. Todo o design, imagens, 
+ícones, nomes foram pensados e estruturados para que o projeto possa trazer a cultura grega conectada com tecnologia e atividades físicas.
+
+    As imagens, Fontes e ícones foram separados em pastas, para facilitar a organização dos arquivos e foi utilizado um CSS e um JS integrados em
+todo o projeto.
+    
+    CSS: Toda a estilização, assim como a responsividade do site foi construída a partir de um código CSS puro, apenas aplicando os conhecimentos
+do grupo 
+
+    JS: O arquivo JS é bem curto, mas muito utilizado em todo o projeto, pois é aplicado em todas as páginas tanto para funcionalidade do menu 
+hamburguer como na interação com o usuário 
+
+** Como nesse projeto, não foi criado um projeto de back-end, a ação dos formulários em HTML é envio para uma conta no e-mail, e os dados que
+precisariam ser validados, foi aplicado um recurso em JS para informar o usuário que não estava cadastrado no sistema.
